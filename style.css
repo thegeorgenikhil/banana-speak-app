@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/9b/08/0b/9b080b0411003bb748fd496094970faa.png);
+}
+
+textarea{
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 60%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: white;
+
+}
+
+.app-heading{
+    text-align: center;
+    padding: 1rem;
+    color: black;
+    background: yellow;
+    border-radius: 2rem;
+    
+}
+
+.user-interface{
+    display: block;
+    margin-left: 25rem;
+
+}
+
+#btn-translate{
+    padding: 1rem;
+    background-color: yellow;
+    border-radius:1rem ;
+    margin: 0rem 1rem 1rem 1rem;
+    font-size: 1.5rem;
+}
+
+.output-heading{
+    font-size: 1.2rem;
+    padding: 1rem;
+    border: 1px solid white;
+    width: 22%;
+    margin-left:1rem;
+    background-color: white;
+}
+
+
+.footer{
+    text-align: center;
+    color: black;
+    background: yellow;
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
