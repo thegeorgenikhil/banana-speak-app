@@ -42,13 +42,15 @@ textarea{
     border-radius:1rem ;
     margin: 0rem 1rem 1rem 1rem;
     font-size: 1.5rem;
+    cursor: pointer;
+
 }
 
 .output-heading{
     font-size: 1.2rem;
     padding: 1rem;
     border: 1px solid white;
-    width: 22%;
+    width: 30%;
     margin-left:1rem;
     background-color: white;
 }
